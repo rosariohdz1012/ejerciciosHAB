@@ -1,0 +1,16 @@
+com\citasconsola\PruebaCitasConsola.class
+com\citasconsola\persistencia\exceptions\IllegalOrphanException.class
+com\citasconsola\logica\Ciudadano_.class
+com\citasconsola\logica\Tramite_.class
+com\citasconsola\persistencia\exceptions\NonexistentEntityException.class
+com\citasconsola\persistencia\exceptions\PreexistingEntityException.class
+com\citasconsola\logica\Cita_.class
+com\citasconsola\logica\Cita.class
+com\citasconsola\logica\Ciudadano.class
+com\citasconsola\persistencia\TramiteJpaController.class
+com\citasconsola\persistencia\CiudadanoJpaController.class
+com\citasconsola\persistencia\CitaJpaController.class
+com\citasconsola\logica\Tramite.class
+com\citasconsola\logica\Usuario_.class
+com\citasconsola\logica\Usuario.class
+com\citasconsola\persistencia\UsuarioJpaController.class

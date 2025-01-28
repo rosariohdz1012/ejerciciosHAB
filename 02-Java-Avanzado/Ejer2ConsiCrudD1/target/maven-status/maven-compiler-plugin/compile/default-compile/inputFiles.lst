@@ -1,0 +1,13 @@
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\persistencia\ControladoraPersistencia.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\Ejer2ConsiCrudD1.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\excepciones\Validaciones.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\persistencia\exceptions\NonexistentEntityException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\excepciones\ProductoNoEncontradoException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\excepciones\PrecioInvalidoException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\Producto.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\persistencia\exceptions\IllegalOrphanException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\excepciones\NombreInvalidoException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\persistencia\ProductoJpaController.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\presentacion\Presentacion.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\logica\excepciones\StockInvalidoException.java
+C:\Users\IngRosario\Documents\NetBeansProjects\Ejer2ConsiCrudD1\src\main\java\com\mycompany\ejer2consicrudd1\persistencia\exceptions\PreexistingEntityException.java

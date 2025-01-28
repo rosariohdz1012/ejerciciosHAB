@@ -1,0 +1,14 @@
+com\mycompany\ejer2consicrudd1\Ejer2ConsiCrudD1.class
+com\mycompany\ejer2consicrudd1\persistencia\exceptions\IllegalOrphanException.class
+com\mycompany\ejer2consicrudd1\logica\Producto_.class
+com\mycompany\ejer2consicrudd1\persistencia\exceptions\PreexistingEntityException.class
+com\mycompany\ejer2consicrudd1\persistencia\ProductoJpaController.class
+com\mycompany\ejer2consicrudd1\logica\Producto.class
+com\mycompany\ejer2consicrudd1\logica\excepciones\PrecioInvalidoException.class
+com\mycompany\ejer2consicrudd1\logica\excepciones\NombreInvalidoException.class
+com\mycompany\ejer2consicrudd1\logica\excepciones\ProductoNoEncontradoException.class
+com\mycompany\ejer2consicrudd1\presentacion\Presentacion.class
+com\mycompany\ejer2consicrudd1\logica\excepciones\Validaciones.class
+com\mycompany\ejer2consicrudd1\logica\excepciones\StockInvalidoException.class
+com\mycompany\ejer2consicrudd1\persistencia\ControladoraPersistencia.class
+com\mycompany\ejer2consicrudd1\persistencia\exceptions\NonexistentEntityException.class
